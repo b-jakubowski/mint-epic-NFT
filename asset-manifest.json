@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/mint-epic-nft/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/mint-epic-nft/static/js/main.4f75cadd.chunk.js",
-    "main.js.map": "/mint-epic-nft/static/js/main.4f75cadd.chunk.js.map",
-    "runtime-main.js": "/mint-epic-nft/static/js/runtime-main.fd1732bf.js",
-    "runtime-main.js.map": "/mint-epic-nft/static/js/runtime-main.fd1732bf.js.map",
+    "main.css": "/mint-epic-nft/static/css/main.b356b4cc.chunk.css",
+    "main.js": "/mint-epic-nft/static/js/main.c55bf54a.chunk.js",
+    "main.js.map": "/mint-epic-nft/static/js/main.c55bf54a.chunk.js.map",
+    "runtime-main.js": "/mint-epic-nft/static/js/runtime-main.832ed210.js",
+    "runtime-main.js.map": "/mint-epic-nft/static/js/runtime-main.832ed210.js.map",
     "static/js/2.b254f139.chunk.js": "/mint-epic-nft/static/js/2.b254f139.chunk.js",
     "static/js/2.b254f139.chunk.js.map": "/mint-epic-nft/static/js/2.b254f139.chunk.js.map",
-    "static/js/3.27ff778d.chunk.js": "/mint-epic-nft/static/js/3.27ff778d.chunk.js",
-    "static/js/3.27ff778d.chunk.js.map": "/mint-epic-nft/static/js/3.27ff778d.chunk.js.map",
     "index.html": "/mint-epic-nft/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/mint-epic-nft/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.b356b4cc.chunk.css.map": "/mint-epic-nft/static/css/main.b356b4cc.chunk.css.map",
     "static/js/2.b254f139.chunk.js.LICENSE.txt": "/mint-epic-nft/static/js/2.b254f139.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/mint-epic-nft/static/media/logo.6ce24c58.svg"
+    "static/media/twitter-logo.a8a75254.svg": "/mint-epic-nft/static/media/twitter-logo.a8a75254.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd1732bf.js",
+    "static/js/runtime-main.832ed210.js",
     "static/js/2.b254f139.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.4f75cadd.chunk.js"
+    "static/css/main.b356b4cc.chunk.css",
+    "static/js/main.c55bf54a.chunk.js"
   ]
 }
